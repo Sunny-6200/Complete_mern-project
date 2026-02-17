@@ -1,9 +1,7 @@
 @import "tailwindcss";
 @import "tailwindcss/utilities";
 
-*{
-    color: #fff;
-}
+
 body{
     border-right-color: #111;
 }
